@@ -1,0 +1,116 @@
+#root {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.logo {
+	user-select: none;
+	cursor: pointer;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	margin: 0 auto 0 auto;
+	padding-bottom: 2rem;
+	padding-top: 7rem;
+}
+.bounce-7:hover {
+	animation-name: bounce-7;
+	animation-timing-function: cubic-bezier(0.28, 0.84, 0.42, 1);
+}
+@keyframes bounce-7 {
+	0% {
+		transform: scale(1, 1) translateY(0);
+	}
+	10% {
+		transform: scale(1.1, 0.9) translateY(0);
+	}
+	30% {
+		transform: scale(0.9, 1.1) translateY(-100px);
+	}
+	50% {
+		transform: scale(1.05, 0.95) translateY(0);
+	}
+	57% {
+		transform: scale(1, 1) translateY(-7px);
+	}
+	64% {
+		transform: scale(1, 1) translateY(0);
+	}
+	100% {
+		transform: scale(1, 1) translateY(0);
+	}
+}
+
+.content {
+	background-color: #fff9e5;
+	border-radius: 10px;
+	width: 60vw;
+	margin: 0 auto;
+	height: 100vh;
+	border: 5px solid #41396c;
+	color: #786951;
+	text-align: justify;
+	font-size: 1.1rem;
+	overflow-y: scroll;
+}
+
+article {
+	padding: 0 1rem;
+}
+
+.footer {
+	width: fit-content;
+	margin: 0 auto;
+	margin-top: 1rem;
+	padding: 0.5rem 10rem;
+	border-radius: 0.5rem 0.5rem 0 0;
+	background-color: #68b893;
+}
+
+.footer img {
+	padding-top: 1rem;
+}
+
+.footerText {
+	margin: 0;
+	color: #fff9e5;
+	font-weight: 600;
+}
+
+.title {
+	font-family: "FinkHeavy";
+	background: url(./assets/Tomnook.png) no-repeat;
+	background-size: contain;
+	background-position: 2%;
+	color: #017c74;
+	font-size: 32px;
+	text-align: left;
+	border: 2px solid #68b893;
+	background-color: #a4d4a2;
+	padding: 0.5rem 0.5rem 0.5rem 6rem;
+	border-radius: 0.4rem;
+}
+
+@media (max-width: 665px) {
+	.content {
+		width: 100%;
+		border: none;
+		border-radius: 0;
+	}
+	.footer {
+		padding: 0.5rem 5rem;
+		border-radius: 0.5rem 0.5rem 0 0;
+		background-color: #68b893;
+	}
+
+	.title {
+		background-size: contain;
+		background-position: 2%;
+		color: #017c74;
+		font-size: 20px;
+		text-align: left;
+		border: 2px solid #68b893;
+		background-color: #a4d4a2;
+		padding: 0.5rem 0.5rem 0.5rem 6rem;
+		border-radius: 0.4rem;
+	}
+}
