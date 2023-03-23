@@ -45,12 +45,10 @@
 	border-radius: 10px;
 	width: 60vw;
 	margin: 0 auto;
-	height: 100vh;
 	border: 5px solid #41396c;
 	color: #786951;
 	text-align: justify;
 	font-size: 1.1rem;
-	overflow-y: scroll;
 }
 
 article {
