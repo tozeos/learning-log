@@ -1,7 +1,7 @@
 import logo from "./assets/logo.png";
 import leaf from "./assets/Leaf.png";
 import "./App.css";
-import { postagens } from "./posts";
+import { postagens } from "./Posts";
 
 function App() {
 	return (
