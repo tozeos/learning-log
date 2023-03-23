@@ -7,6 +7,6 @@ export const postagens = [
 		p3: "I took some notes, so I think I got the main points of what the teacher showed us, but I have to study a little bit more by my self to fix all the concepts and examples in my mind. There was so many new concepts that I’m afraid of mix some of them and go crazy on the tests.",
 		p4: "I just remembered the classes in my second Teaching Practicum at UNEB, where me and Vitor taught our students a little about how word formation can help them read better not only English texts but Portuguese and so on. Knowing that helps you guess the meaning of a word you don’t know (in theory). So I believe it really help in reading, and I will always use this in my classes.",
 		p5: "🧠🧠🧠🧠🧠 5 brains out of 5.",
-		img: "",
+		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
 	},
 ];
