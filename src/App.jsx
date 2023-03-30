@@ -12,7 +12,7 @@ function App() {
 					{postagens.map((post, i) => (
 						<article key={i}>
 							<h1 className="title">
-								Learning Log {`#` + i + 1} - {post.date}
+								Learning Log # {i + 1} - {post.date}
 							</h1>
 
 							<h3>What did I learn today?</h3>

@@ -9,4 +9,14 @@ export const postagens = [
 		p5: "🧠🧠🧠🧠🧠 5 brains out of 5.",
 		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
 	},
+	{
+		id: 1,
+		date: "March 29th",
+		p1: "Today we had to remember many things that we learned last class and learn new ones. One particular thing that I never thought about was how dictionaries are made. They don't have a section for other variations or derivations of the same root. That's kinda strange because this means we have to know more about the language to use them, but at the same time, we as teachers, are used to use 'em in our classes without thinking about that.",
+		p2: "I enjoyed our discussions about the vision our country has when we talk about teachers, it's rooted in our society. The people see a person who went abroad as capable as a person who took four years or more in an University to be capable to teach a language. I can't teach portuguese just because I'm brazilian, I personally suck at it. I believe that we have to policy ourselves because of that, we are capable of teach even though we don't have experiences in another country, or the fluency they expect from us.",
+		p3: "I think I got how the basics of Morphology works, but some of the concepts still obscure in my mind, for example the Allomorphs, I have to look up this concept to understand it better. So I think think that was my weakness this week.",
+		p4: "I know it's now related to the subject we studied, but the topic discussed in our class on this day clarified some things to me. I know now that I have an important acting role in our society, give my best to teach what I have been learning though these 5 years of UNEB, and showing them, even though I haven't attended a private course or travelled abroad, I have the skills to teach english to my students. And I'll keep improving every day on my own.",
+		p5: "🦐🦐🦐🦐 4 shrimps out of 5.",
+		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
+	},
 ];
