@@ -41,6 +41,23 @@
 	}
 }
 
+menu {
+	display: flex;
+	justify-content: space-around;
+	background-color: #a4d4a2;
+	padding: 1rem 0rem;
+	margin-top: 0;
+	border-radius: 5px 5px 0 0;
+	border-bottom: 2px solid #68b893;
+	flex-wrap: wrap;
+}
+
+span {
+	font-family: "FinkHeavy";
+	font-size: 20px;
+	border-bottom: #41396c 2px;
+}
+
 .content {
 	max-width: 958px;
 	background-color: #fff9e5;
@@ -95,6 +112,13 @@ article {
 }
 
 @media (max-width: 965px) {
+	menu {
+		display: flex;
+		justify-content: space-around;
+		margin-top: 0;
+		border: none;
+	}
+
 	.content {
 		border: none;
 		border-radius: 0;

@@ -9,9 +9,16 @@ function App() {
 			<img className="logo bounce-7" src={logo} alt="Website logo"></img>
 			<div className="bg">
 				<section className="content">
+					<menu>
+						{postagens.map((card, i) => (
+							<span className="menu" key={i}>
+								<a href={`#` + i}>Learning Log #{i + 1}</a>
+							</span>
+						))}
+					</menu>
 					{postagens.map((post, i) => (
 						<article key={i}>
-							<h1 className="title">
+							<h1 className="title" id={i}>
 								Learning Log # {i + 1} - {post.date}
 							</h1>
 
