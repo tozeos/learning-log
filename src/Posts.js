@@ -19,4 +19,14 @@ export const postagens = [
 		p5: "🦐🦐🦐🦐 4 shrimps out of 5.",
 		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
 	},
+	{
+		id: 2,
+		date: "April 5th",
+		p1: "Today was a bit different from the other classes, because we had a test which involved the subjects we had on the previous classes, and it was really fun to do. The interesting part of it was to be able to discuss my solutions with my colleague Vitor, we helped each other by showing concepts we forgot at the moment.",
+		p2: "I think the test method that the professor used. It was different and I really enjoyed it.",
+		p3: "I understood how the test was going to work, but some of my colleagues didn't understand at that time, so I could feel their concerns.",
+		p4: "I should try this at some time in my life, it encourages students to think more about their response and gives to the student a different feeling when taking a test.",
+		p5: "👽👽👽👽👽 5 aliens out of 5.",
+		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
+	},
 ];
