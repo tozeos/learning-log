@@ -29,4 +29,14 @@ export const postagens = [
 		p5: "👽👽👽👽👽 5 aliens out of 5.",
 		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
 	},
+	{
+		id: 3,
+		date: "April 19th",
+		p1: "In today's class we has a more easy subject to study. We've learned how words can be fomed! There are many types of word formation: Coinage, when we use brand names as the names of the objects. Borrowing: When we borrow some words from other languages and incorporates them in ours. Compounding: When we put together two word to form a new one. Blending: When we put parts of two words together and creates a new one. Clipping: When we cut a long word and create a shorter version of it to use. To be honest, I didn't understand what `BACKFORMATION` is, so I think I'll have to study it a little more. Conversion: When we use the same word that has a different meaning like `BALEIA BALEIA BALEIA` so in this example, a whale shoots another whale, and finally, acronyms: using acronyms like WHO: World Heath Organization and many others.",
+		p2: "I really like the affixes part. It's something that I've searched for, and I belive they are very interesting to know.",
+		p3: "The activities were funny to do. There are some concepts that I didn't understand and as I said before, I have to study more about.",
+		p4: "The affixes is something I really enjoyed teach at my last Teaching Practice Internship. So, I really want to show them for my students, not in this semester, because they are new in english classes, but who knows in the next one when I will have to teach older students in the state schools.",
+		p5: "🫠🫠🫠🫠🫠 5 out of 5 melting dudes (because it's too hot today)",
+		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
+	},
 ];
