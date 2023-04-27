@@ -39,4 +39,14 @@ export const postagens = [
 		p5: "🫠🫠🫠🫠🫠 5 out of 5 melting dudes (because it's too hot today)",
 		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
 	},
+	{
+		id: 4,
+		date: "April 26th",
+		p1: "We had a test today. It was a really easy and I had to study a little more about the concepts we've learned in the previous class, and fix them in my mind.",
+		p2: "The LARGE range of word formation types are really interesting, I was cofusing some of them but I believe I did it well.",
+		p3: "I think everything worked well. Everyone now knows how important is knowing this subject because they tell us more than its meaning, I believe.",
+		p4: "As I said before, knowing how the words are formed, I can predict the word's meaning, even though I don't know it's meaning in the first time reading them.",
+		p5: "🦋🦋🦋🦋🦋 5 out of 5 butterflies",
+		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
+	},
 ];
