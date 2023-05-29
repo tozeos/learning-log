@@ -43,7 +43,7 @@
 
 menu {
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-evenly;
 	background-color: #a4d4a2;
 	padding: 1rem 0rem;
 	margin-top: 0;

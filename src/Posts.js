@@ -66,7 +66,17 @@ export const postagens = [
 		p2: "I like that I was too confident in the test. Although I may have switched two concepts in the test, which made me fail the questions.",
 		p3: "Except the misconceptions in the two questions I said before, I think everything worked very well.",
 		p4: "Discussing these concepts is something really important, because the students can distinguish the words and know where to use them.",
-		p5: "🦋🦋🦋🦋🦋 5 out of 5 butterflies",
+		p5: "🐲🐲🐲🐲🐲 5 out of 5 dragons",
+		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
+	},
+	{
+		id: 7,
+		date: "May 17th",
+		p1: "I missed this class because I was feeling under the weather that day. So, I had to study though the slides presentation the teacher made. I learned that we may get confused by some words we have in our mother language or in English. Working in translations doesn't mean translate the text directly (word by word), the languages have different structures even though they are simillar or have similar words. So, we have to pay attention to that.",
+		p2: "Knowing that we have the power of conveying meaning through languages. If there's a mistake (even the smallest one) in the translation, this can change a whole comprehension idea of the text piece.",
+		p3: "I think I could have understood better in the class, perhaps the professor could have given many other examples or I could have heard some other explanations from her.",
+		p4: "This subject is really important for our students to know, because this can help them to understand better the texts they read in class or in any other place.",
+		p5: "🦁🦁🦁🦁🦁 5 out of 5 lions",
 		img: "https://raw.githubusercontent.com/tozeos/learning-log/master/src/assets/Tomnook.png",
 	},
 ];

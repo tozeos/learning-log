@@ -12,7 +12,7 @@ function App() {
 					<menu>
 						{postagens.map((card, i) => (
 							<span className="menu" key={i}>
-								<a href={`#` + i}>Learning Log #{i + 1}</a>
+								<a href={`#` + i}>Log #{i + 1}</a>
 							</span>
 						))}
 					</menu>
