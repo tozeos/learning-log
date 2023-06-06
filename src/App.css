@@ -58,6 +58,14 @@ span {
 	border-bottom: #41396c 2px;
 }
 
+span > a {
+	color: #017c74;
+}
+
+span > a:hover {
+	color: #41396c;
+}
+
 .content {
 	max-width: 958px;
 	background-color: #fff9e5;
